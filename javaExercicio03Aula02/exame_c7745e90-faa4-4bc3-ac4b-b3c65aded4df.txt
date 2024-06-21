@@ -1,0 +1,6 @@
+ID: c7745e90-faa4-4bc3-ac4b-b3c65aded4df
+Tipo: Covid-19
+Data: Wed Jun 19 00:00:00 BRT 2024
+Resultado: Negativo
+Médico: Samuel Maciel
+Paciente: Luisa Cabral

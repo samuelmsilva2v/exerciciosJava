@@ -1,0 +1,16 @@
+Turma:
+
+IdTurma: 6655be80-7204-464c-85b2-20f289647043
+DataInicio: Sat Jun 18 00:00:00 BRT 2022
+
+Professor: 
+
+IdProfessor: 16cb3e0b-9595-4369-bf82-2077ed273025
+Nome: Sergio Mendes
+Email: sergio.coti@gmail.com
+
+Curso: 
+
+IdCurso: 9f7a6d20-8610-418b-8e33-7464da3975d1
+Titulo: C# WebDeveloper
+CargaHoraria: 96
